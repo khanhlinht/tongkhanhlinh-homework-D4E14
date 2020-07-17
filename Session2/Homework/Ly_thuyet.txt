@@ -1,0 +1,20 @@
+1) A Boolean value is either True of False
+Ex:
++) 6 == 3 + 3 >> True
++) 7 == 6 >> False
++) i = 'a'
+   i + 'b' =='ab'
+True
+
+2) A flowchart is a type of diagram that represents an algorithm, workflow or process.
+
+
+3) Nested conditionals means that inside one if statement there is another if statement.
+Ex:
+if delta >0:
+	print('phuong trinh co 2 nghiem phan biet')
+else:
+	if delta <0:
+		print('phuong trinh vo nghiem')
+	else:
+		print('phuong trinh co nghiem kep')
